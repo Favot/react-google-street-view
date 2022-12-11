@@ -52,7 +52,6 @@
     "@types/react-dom": "^18.0.9",
     "husky": "^8.0.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "size-limit": "^8.1.0",
     "tsdx": "^0.14.1",
     "tslib": "^2.4.1",
